@@ -1,2 +1,2 @@
 # smsbot
-# Exemplo para integrar a api SMS Digital com Python
+# Exemplo para integrar com a api da SMS Digital com Python
