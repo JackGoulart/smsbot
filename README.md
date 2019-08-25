@@ -1,3 +1,3 @@
 # smsbot
 
-Examplo for integrate with SMS Digital API with Python
+Examplo for integrate with www.smsdigital.com.br/ API with Python
